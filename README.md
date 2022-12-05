@@ -1,10 +1,10 @@
 # advent-of-code
 2022 - https://adventofcode.com/
 1 day = 1 different language:
-  01/12 - Python
-  02/12 - C++
-  03/12 - C
-  04/12 - Java
+  01/12 - Python - ✔️
+  02/12 - C++ - ✔️
+  03/12 - C - ✔️
+  04/12 - Java - ✔️
   05/12 - Javascript
   06/12 - C#
   07/12 - TypeScript
