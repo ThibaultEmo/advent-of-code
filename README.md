@@ -5,7 +5,7 @@
   02/12 - C++ - ✔️
   03/12 - C - ✔️
   04/12 - Java - ✔️
-  05/12 - Javascript
+  05/12 - Javascript ❌ (help me plz) - Python 
   06/12 - C#
   07/12 - TypeScript
   08/12 - Go
