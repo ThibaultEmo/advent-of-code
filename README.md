@@ -1,28 +1,28 @@
 # advent-of-code
 2022 - https://adventofcode.com/
-1 day = 1 different language:
+1 day = 1 different language, alternating between Python/C++/C/Java:
   01/12 - Python - ✔️
   02/12 - C++ - ✔️
   03/12 - C - ✔️
   04/12 - Java - ✔️
-  05/12 - Javascript ❌ (help me plz) - Python 
-  06/12 - C#
-  07/12 - TypeScript
-  08/12 - Go
-  09/12 - Swift
-  10/12 - Rust
-  11/12 - Perl
-  12/12 - Kotlin
-  13/12 - Ruby
-  14/12 - Perl
-  15/12 - Pascal
-  16/12 - Delphi
-  17/12 - Haskell
-  18/12 - Matlab
-  19/12 - Objective-C
-  20/12 - OCaml
-  21/12 - PHP
-  22/12 - R
-  23/12 - Scratch 
-  24/12 - Cobol
-  25/12 - Curl
+  05/12 - Python
+  06/12 - C++
+  07/12 - C
+  08/12 - Java
+  09/12 - Python
+  10/12 - C++
+  11/12 - C
+  12/12 - Java
+  13/12 - Python
+  14/12 - C++
+  15/12 - C
+  16/12 - Java
+  17/12 - Python
+  18/12 - C++
+  19/12 - C
+  20/12 - Java
+  21/12 - Python
+  22/12 - C++
+  23/12 - C 
+  24/12 - Java
+  25/12 - Python
