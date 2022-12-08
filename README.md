@@ -1,6 +1,6 @@
 # advent-of-code
 2022 - https://adventofcode.com/
-1 day = 1 different language, alternating between Python/C++/C/Java:
+1 day = 1 different language, alternating between Python/C++/C/Java | if lazy for C will switch to Python
   01/12 - Python - ✔️
   02/12 - C++ - ✔️
   03/12 - C - ✔️
